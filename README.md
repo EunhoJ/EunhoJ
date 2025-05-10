@@ -10,7 +10,7 @@
 
 <br>
   ## 🎓 Conhecimentos adquirido:
-<div height="180px">
+<div width="180px">
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs)](https://skillicons.dev)<br><br>
 </div>
 
