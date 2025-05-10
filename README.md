@@ -5,15 +5,11 @@
 </p><br><br>
 
 
-## 🎓 Conhecimento adquirido:
+## 🎓 Conhecimentos adquirido:
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)<br><br>
 
 ## 📫 Contatos:
-<p>
-  <a href="https://www.instagram.com/john_vieira_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/john_vieira_/)
 <br></br>
 
 
