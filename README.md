@@ -5,11 +5,12 @@
 </p><br><br>
 
 ## 📫 Contatos:
-<div height="180px">
+
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/john_vieira_/)  
 
 <br>
   ## 🎓 Conhecimentos adquirido:
+<div height="180px">
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs)](https://skillicons.dev)<br><br>
 </div>
 
