@@ -12,14 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs)](https://skillicons.dev)<br><br>
 
 
-
-
 <div align="center">
-  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnnerr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=EunhoJ&show_icons=true&theme=tokyonight"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunhoJ&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-###
-
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
