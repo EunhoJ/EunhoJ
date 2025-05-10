@@ -4,13 +4,14 @@
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 
+## 📫 Contatos:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/john_vieira_/)
+<br>
 
 ## 🎓 Conhecimentos adquirido:
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)<br><br>
 
-## 📫 Contatos:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/john_vieira_/)
-<br></br>
+
 
 
 <div align="center">
