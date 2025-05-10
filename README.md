@@ -9,14 +9,14 @@
 <br>
 
 ## 🎓 Conhecimentos adquirido:
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs)](https://skillicons.dev)<br><br>
 
 
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnnerr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnnerr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ###
