@@ -10,9 +10,9 @@
 
 <br>
   ## 🎓 Conhecimentos adquirido:
-<div width="180px">
+
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nodejs)](https://skillicons.dev)<br><br>
-</div>
+
 
 <div align="center">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=EunhoJ&show_icons=true&theme=tokyonight"/>
