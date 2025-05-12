@@ -10,7 +10,7 @@
 <br>
 
 ## 🎓 Conhecimentos adquirido:
-  [![My Skills](https://skillicons.dev/icons?i=html,css,JavaScript,bootstrap,react,tailwind,nodejs)](https://skillicons.dev)<br><br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind,nodejs)](https://skillicons.dev)<br><br>
 
 
 <div align="center">
