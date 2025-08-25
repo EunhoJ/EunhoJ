@@ -47,6 +47,6 @@
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-jvieiradev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jvieiradev
-)](www.linkedin.com/in/jvieiradev)
+)](https://linkedin.com/in/jvieiradev)
 [![Hotmail](https://img.shields.io/badge/-jvieira.dev@hotmail.com-0072C6?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jvieira.dev@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/EunhoJ?label=follow&style=social)](https://github.com/EunhoJ)
