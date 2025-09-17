@@ -41,10 +41,6 @@
 
 <br/>
 
-<a href="https://github.com/EunhoJ" title="Perfil do John">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EunhoJ&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-jvieiradev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jvieiradev
 )](https://linkedin.com/in/jvieiradev)
